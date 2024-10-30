@@ -1,0 +1,10 @@
+{
+	"name": "transmitsecurity/wordpress-bindid-integration",
+	"description": "Login by BindId provides a seamless, passwordless login experience for your WordPress websites",
+	"homepage": "https://www.transmitsecurity.com/",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+    "require": {
+        "firebase/php-jwt": "5.2.1"
+    }
+}
